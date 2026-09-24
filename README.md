@@ -37,6 +37,7 @@
 
 **[5]** En caso de que tengas descargada una versión más antigua, te aconsejo borrarla y volver a instalar la herramienta (+requisitos) para solucionar errores y obtener mejoras, que hacen que la herramienta sea mucho mejor que las versiones anteriores.
 
+
 ## 🔎 Versiones 🔎
 
 <details>
