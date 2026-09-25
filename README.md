@@ -7,6 +7,7 @@
 [![Inhibitor-1-3.png](https://i.postimg.cc/sfNstwF1/Inhibitor-1-3.png)](https://postimg.cc/qgyPKcvd)
 
 
+
 ## 🛠 Instalar Herramienta 🛠
 
 1) sudo apt update && apt -y full-upgrade
