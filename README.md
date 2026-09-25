@@ -8,6 +8,7 @@
 
 
 
+
 ## 🛠 Instalar Herramienta 🛠
 
 1) sudo apt update && apt -y full-upgrade
